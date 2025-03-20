@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joshua Ikem
-- I am a Nigeriam
+- I am a Nigerian
 - 👀 I’m interested in Web programming, data Science and Analysis
-- 🌱 I’m currently learning python, SQL and data skills
+- 🌱 I’m currently learning python, SQL and =enhancing my data and information sorting skills
 - 📫 Officially you can contact me through my mail "niphemijoshua@gmail.com"
 - or nt mobile +234 8162615664
 
